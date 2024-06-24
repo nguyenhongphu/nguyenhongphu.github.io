@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Rather be a late-bloomer than an early-finished article! I am a life-long-learning person/researcher/toastmaster, always thrive for developing not only research skills but also personal development skills. I wrote a poem about the research work of my #PhD, and could #karaoke it to win the first prize at a Science Slam :) 
+Rather be a late-bloomer than an early-finished article! I am a life-long-learning person/researcher/toastmaster, always thrive for developing not only research skills but also personal development skills. I wrote a poem about the research work of my PhD, and could karaoke it to win the first prize at a Science Slam :) 
 
 HIGHER EDUCATION
 ======
-2015	PhD in Computer Science	University of Luxembourg, Luxembourg
+PhD in Computer Science	University of Luxembourg, Luxembourg
 
-2010	Master of Computer Science and Engineering	Eindhoven University of Technology, the Netherlands
+Master of Computer Science and Engineering	Eindhoven University of Technology, the Netherlands
 
-2006	Bachelor of Computer Science	Hanoi University of Science and Technology, Vietnam
+Bachelor of Computer Science	Hanoi University of Science and Technology, Vietnam
 
 POSITIONS 
 ======
