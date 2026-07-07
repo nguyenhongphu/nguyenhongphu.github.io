@@ -45,7 +45,7 @@ Positions
 * 2015-2017: Postdoctoral Fellow, Simula Research Laboratory, Norway
 * 2011-2015: PhD candidate, Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg, Luxembourg
 * 2011: Lecturer, FPT University and Aptech Computer Education, Vietnam
-* 2006-2008: Software Engineer, IBM Vietnam, Hanoi, Vietnam
+* 2006-2008: Software Engineer, FSoft & IBM Vietnam, Hanoi, Vietnam
 
 Project management experience
 ======
@@ -71,7 +71,7 @@ Experience from national and international collaboration
 Other experience and merits
 ======
 * Secretary (2024-now), Viet Professionals in Norway (VPN). I am a founding member of Viet Professionals in Norway (VPN), a network to share experiences for the professional development of our members, and increase collaboration to bring more added value to the community.
-* Secretary General (2019-now), The Organization of Vietnamese Families in Oslo and the surrounding areas. I organise activities for the organisation of Vietnamese families in Oslo and nearby. We focus on projects for children and families, and support and promote the connection between Vietnam and Norway.
+* Secretary General (2019-now), The Organization of Vietnamese Families in Oslo and the surrounding areas. I organise activities for the organisation of Vietnamese families in Oslo and nearby. We focus on projects for children and families, preserving, honoring, and promoting Vietnamese cultural values, integration with Norwegian society, and cooperation between Vietnam and Norway for sustainable development.
 * Vice President of Education (2016-2018), Oslo Toastmasters: Active member of Toastmasters International since 2013. During this term, contributions helped Oslo Toastmasters achieve the highest-ranking club title based on member development. The Vice President of Education role covered planning, organising, and directing the education programme, scheduling speeches and projects, and supporting members with education awards, contests, and mentoring.
 * Secretary (2018-2019), Oslo Toastmasters.
 * University Council member (2013-2015), University of Luxembourg.
