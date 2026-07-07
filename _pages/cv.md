@@ -15,6 +15,22 @@ Personal information
 * Sex: Male
 * Nationality: Norwegian, Vietnamese
 
+Profile summary
+======
+* Senior Research Scientist at SINTEF developing tools and methodologies for software development and operation of intelligent and trustworthy systems spanning IoT, edge, and cloud continuum, with a particular focus on sustainability.
+
+Competence and research areas
+======
+* AI-driven engineering
+* Digital twin engineering
+* Internet of Things
+* Edge computing
+* Cloud native systems
+* Microservices
+* Data sovereignty and data spaces
+* DevOps
+* Security by design
+
 Higher education
 ======
 * 2015: PhD in Computer Science, University of Luxembourg, Luxembourg
@@ -32,6 +48,9 @@ Positions
 
 Project management experience
 ======
+* 2025-2028: SECASSURED - Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right. Role: SINTEF project contact.
+* 2024-2027: REED - Responsive and reconfigurable value network for the manufacture of bulky parts. Role: SINTEF project contact.
+* 2026-2028: BAEREL - Sustainable and circular electronic products and production value chains. Role: Project contributor.
 * 2023-2026: TechDebtOps - Data-driven continuous management of technical debts for sustainable software development. Role: Project coordinator and internal project manager for the SINTEF team. Funding: Innovation Project for Industry (IPN), Research Council of Norway.
 * 2022-2025: DYNABIC - Dynamic business continuity of critical infrastructures on top of adaptive multi-level cybersecurity. Role: Task leader. Funding: Horizon Europe.
 * 2020-2024: Dat4.Zero - Data Reliability and Digitally-enhanced Quality Management for Zero Defect Manufacturing in Smart Factories and Ecosystems. Role: Internal project manager for the SINTEF team. Funding: EU H2020.

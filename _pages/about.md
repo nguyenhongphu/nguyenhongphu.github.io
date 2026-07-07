@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Scientist at SINTEF, Norway, with a PhD in Computer Science from the University of Luxembourg. My work spans software engineering for cloud, IoT, and cyber-physical systems, with a focus on security orchestration, data quality, and sustainable software evolution.
+I am Phu H. Nguyen (or "Foo" as a simplified pronunciation), Senior Research Scientist at SINTEF, Norway, with a PhD in Computer Science from the University of Luxembourg. I develop tools and methodologies for software development and operation of intelligent and trustworthy systems across the IoT, edge, and cloud continuum, with a particular focus on sustainability.
 
-I am a life-long learner and an active member of professional and community networks. Alongside research and innovation projects, I have also contributed to teaching, mentoring, and science communication, including winning first prize at the LuxDoc Science Slam 2014.
+My competence and research areas include AI-driven engineering, digital twin engineering, Internet of Things, edge computing, cloud native systems, microservices, data sovereignty, data spaces, DevOps, and security by design.
 
 HIGHER EDUCATION
 ======
@@ -35,6 +35,12 @@ POSITIONS
 
 PROJECT MANAGEMENT EXPERIENCE
 ======
+2025-2028	SECASSURED - Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right (SINTEF project contact)
+
+2024-2027	REED - REsponsive and REconfigurable value network for the manufacture of bulky parts (SINTEF project contact)
+
+2026-2028	BAEREL - Sustainable and circular electronic products and production value chains (project contributor)
+
 2023-2026	TechDebtOps - Project coordinator and internal project manager for the SINTEF team (IPN, Research Council of Norway)
 
 2022-2025	DYNABIC - Task leader (Horizon Europe)

@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "This is Phu Nguyen's website"
+title                    : "Phu Nguyen"
 title_separator          : "-"
 name                     : &name "Phu Nguyen"
-description              : &description "This is Phu's website"
+description              : &description "Senior Research Scientist at SINTEF working on AI-driven engineering, digital twins, IoT, edge-cloud systems, and security by design."
 url                      : https://nguyenhongphu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nguyenhongphu/nguyenhongphu.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "phu.JPG"
   name             : "Dr. Phu Nguyen"
   pronouns         : "he/him"  
-  bio              : "Senior Research Scientist at SINTEF, Norway"
-  location         : "VN-NL-LU-NO-Earth"
-  employer         : "SINTEF Norway"
+  bio              : "Senior Research Scientist at SINTEF developing tools and methodologies for intelligent and trustworthy systems across the IoT-edge-cloud continuum."
+  location         : "Oslo, Norway"
+  employer         : "SINTEF"
   uri              : https://www.sintef.no/en/all-employees/employee/phu.nguyen/
-  email            : "firstname.lastname@sintef.no" 
+  email            : "phu.nguyen@sintef.no" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
