@@ -17,7 +17,8 @@ Personal information
 
 Profile summary
 ======
-* Senior Research Scientist at SINTEF developing tools and methodologies for software development and operation of intelligent and trustworthy systems spanning IoT, edge, and cloud continuum, with a particular focus on sustainability. Strong volunteer experiences in different social/professional organisations in different countries. 
+* Senior Research Scientist at SINTEF developing tools and methodologies for software development and operation of intelligent and trustworthy systems spanning IoT, edge, and cloud continuum, with a particular focus on sustainability. 
+* Strong volunteer experiences in different social/professional organisations in different countries. 
 
 Competence and research areas
 ======
