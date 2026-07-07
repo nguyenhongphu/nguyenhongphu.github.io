@@ -12,7 +12,6 @@ redirect_from:
 Personal information
 ======
 * Family name, first name: Nguyen, Phu
-* Date of birth: 23.06.1983
 * Sex: Male
 * Nationality: Norwegian, Vietnamese
 
@@ -50,7 +49,7 @@ Experience from national and international collaboration
 
 Other experience and merits
 ======
-* Vice President of Education (2016-2018), Oslo Toastmasters.
+* Vice President of Education (2016-2018), Oslo Toastmasters: Active member of Toastmasters International since 2013. During this term, contributions helped Oslo Toastmasters achieve the highest-ranking club title based on member development. The Vice President of Education role covered planning, organising, and directing the education programme, scheduling speeches and projects, and supporting members with education awards, contests, and mentoring.
 * Secretary (2018-2019), Oslo Toastmasters.
 * University Council member (2013-2015), University of Luxembourg.
 * Committee member (2013-2015), Luxembourg Young Researchers Association (LuxDoc).
@@ -77,26 +76,26 @@ Transferable skills courses
 
 Invited talks and lectures (selected)
 ======
-* 2023: Keynote talk, "MDS4IoT: Access Control for Edge-based Data Sharing and towards Security Orchestration", 3rd International Workshop on MDE for Smart IoT Systems.
-* 2023: Invited lecture at the University of Oslo, "Enabling Deep Customization for multi-tenant SaaS, Migration and towards Controlling Tech Debts", ITLED4340.
-* 2022: Invited lecture at the University of Oslo, cloud native microservices, ITLED4340.
-* 2021: Invited talk, "Using Microservices: Customization on Cloud, Shout-out to Tech Debts, and DevOps Enactment for IoT", DnB Architect Summit.
-* 2021: Invited lecture at the University of Oslo, microservices, cloud adoption, and SaaS, ITLED4340.
-* 2020: Keynote talk, "Edge-to-Cloud orchestration: a case study of building a scalable Cooperative-Intelligent Transport System (C-ITS)", 3SCity-E2C workshop.
-* 2020: Interview, "Soon you can tailor IT solutions in the cloud as well", Gemini.
-* 2019: Invited lecture, "Bridge the gap from Design to Operation of Trustworthy Smart IoT Systems with Tools' support", Summer School on Future Energy Information Networks, Berlin.
-* 2019: Invited talk, "Edge computing vs cloud computing", public seminar organised by ITS Norway and Tekna Big Data.
-* 2018: Invited talk, "Advances in genetic engineering and the future of humans", SINTEF public seminar.
-* 2018: Invited lecture, Summer School on Future Energy Information Networks, Oslo.
+* [Keynote talk, 2023] "MDS4IoT: Access Control for Edge-based Data Sharing and towards Security Orchestration", The 3rd International Workshop on MDE for Smart IoT Systems.
+* [Invited lecture, 2023] University of Oslo: "Enabling Deep Customization for Multi-tenant SaaS, Migration and towards Controlling Tech Debts", ITLED4340.
+* [Invited lecture, 2022] University of Oslo: Cloud-native microservices for ITLED4340 - Development and maintenance of complex software systems.
+* [Invited talk, 2021] "Using Microservices: Customization on Cloud, Shout-out to Tech Debts, and DevOps Enactment for IoT", DnB Architect Summit.
+* [Invited lecture, 2021] University of Oslo: Microservices, cloud adoption, and software-as-a-service for ITLED4340.
+* [Keynote talk, 2020] "Edge-to-Cloud orchestration: a case study of building a scalable Cooperative-Intelligent Transport System (C-ITS)", First International Workshop on Building Software Services in Smart City through Edge-to-Cloud orchestration (3SCity-E2C).
+* [Interview, 2020] "Soon you can tailor IT solutions in the cloud as well" - https://gemini.no/2020/06/snart-kan-du-skreddersy-it-losning
+* [Invited lecture, 2019] "Bridge the gap from Design to Operation of Trustworthy Smart IoT Systems with Tools' support", Summer School on Future Energy Information Networks, Berlin, Germany.
+* [Invited talk, 2019] "Edge computing vs cloud computing: Combining the cloud with smart devices, IoT and autonomous systems", organised by ITS Norway and Tekna Big Data.
+* [Invited talk, 2018] "Advances in genetic engineering and the future of humans", SINTEF public seminar.
+* [Invited lecture, 2018] Summer School on Future Energy Information Networks, Oslo.
 
 Research service
 ======
-* Reviewer for top journals in software engineering, including Software and Systems Modeling, Information and Software Technology, Software: Practice and Experience, IEEE Software, Empirical Software Engineering, and IEEE Transactions on Software Engineering.
-* Reviewer and panel leader for DSTrain postdoctoral programme proposal evaluation, University of Oslo (2024).
-* Co-founder and Chair of the International Workshop series on Software Engineering and AI for Data Quality in Cyber-Physical Systems (SEA4DQ), 2021-2024.
-* Program committee member for multiple venues including ESOCC, IFP-IoT, SecAssure, ARES, AI4DT&CP, DeMeSSA, CPS4CIP, MeSS, INTUITESTBEDS, SER&IP, ICDCN, A-TEST, and 3SCity-E2C.
-* Co-organizer and speaker at the workshop "Towards the Future of Trustworthy and Intelligence IoT Applications by DevOps", IoT Week 2022, Dublin.
-* Co-organizer of the 4ZDM cluster webinar "A showcase of seven projects for zero-defect manufacturing" (about 114 participants), April 2022.
+* Reviewer for leading software engineering journals, including Software and Systems Modeling, Information and Software Technology, Software: Practice and Experience, IEEE Software, Empirical Software Engineering, and IEEE Transactions on Software Engineering.
+* Reviewer and panel leader for evaluating research proposals in the DSTrain Postdoctoral Programme, University of Oslo (2024), funded in part by Horizon Europe MSCA COFUND.
+* Co-founder and Chair of the International Workshop series on Software Engineering and AI for Data Quality in Cyber-Physical Systems (SEA4DQ), 2021-2024: https://sea4dq.github.io/
+* Programme committee roles across venues including ESOCC 2025, IFP-IoT 2024, SecAssure 2024/2023/2022, ARES 2024/2023, AI4DT&CP 2024, DeMeSSA 2023/2022, CPS4CIP 2023, MeSS 2023, INTUITESTBEDS 2023/2022, SER&IP 2021, ICDCN 2021, A-TEST 2020, and 3SCity-E2C 2020.
+* Co-organiser and speaker at the workshop "Towards the Future of Trustworthy and Intelligence IoT Applications by DevOps", co-located with IoT Week 2022 (Dublin).
+* Co-organiser of the 4ZDM cluster webinar "A showcase of seven projects for zero-defect manufacturing" with approximately 114 participants (April 2022).
 
 Publications
 ======
@@ -147,7 +146,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Active contributions to workshop organisation, technical programme committees, and research proposal evaluation in software engineering, IoT, and cyber-physical systems.
