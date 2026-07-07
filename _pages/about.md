@@ -31,7 +31,7 @@ POSITIONS
 
 2011-2011	Lecturer, FPT University & Aptech Computer Education, Vietnam
 
-2006-2008	Software Engineer, IBM Vietnam, Hanoi, Vietnam
+2006-2008	Software Engineer, FSoft & IBM Vietnam, Hanoi, Vietnam
 
 PROJECT MANAGEMENT EXPERIENCE
 ======
