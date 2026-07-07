@@ -1,6 +1,6 @@
 ---
 title: "InterQ (2020-2023)"
-excerpt: "Task leader in an EU H2020 project for interlinked process, product, and data quality toward zero-defect manufacturing."
+excerpt: "Task leader in an EU H2020 project for interlinked process, product, and data quality toward zero-defect manufacturing.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 date: 2020-02-01
 ---

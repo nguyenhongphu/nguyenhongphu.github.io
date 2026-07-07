@@ -1,6 +1,6 @@
 ---
 title: "SECASSURED (2025-2028)"
-excerpt: "SINTEF project contact for Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right."
+excerpt: "SINTEF project contact for Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right.<br/><img src='/images/projects/secassured.jpg'>"
 collection: portfolio
 date: 2025-01-01
 ---

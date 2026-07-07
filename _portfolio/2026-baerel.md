@@ -1,6 +1,6 @@
 ---
 title: "BAEREL (2026-2028)"
-excerpt: "Project contributor to sustainable and circular electronic products and production value chains."
+excerpt: "Project contributor to sustainable and circular electronic products and production value chains.<br/><img src='/images/projects/baerel.jpg'>"
 collection: portfolio
 date: 2026-01-01
 ---

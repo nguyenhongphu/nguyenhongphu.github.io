@@ -1,6 +1,6 @@
 ---
 title: "MITER (2011-2015)"
-excerpt: "PhD candidate in a core research project on modelling, composing, and testing security concerns."
+excerpt: "PhD candidate in a core research project on modelling, composing, and testing security concerns.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 date: 2011-01-01
 ---
