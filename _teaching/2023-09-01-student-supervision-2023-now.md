@@ -10,6 +10,6 @@ location: "Norway"
 
 Supervision activities include:
 
-* 2 master's students/interns
+* 6 master's students/interns
 * 1 PhD student
-* 2 master's thesis supervisions
+* 8 master's thesis supervisions

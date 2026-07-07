@@ -81,7 +81,7 @@ OTHER EXPERIENCE & MERITS
 
 CO-SUPERVISION OF STUDENTS
 ------
-•	2023-now: 2 Master students/interns, 1 PhD student, 2 Master thesis supervisions.
+•	2023-now: 6 Master students/interns, 1 PhD student, 8 Master thesis supervisions.
 
 •	2022-2023: 1 PhD student, 1 visiting PhD student, 6 Master thesis supervisions.
 

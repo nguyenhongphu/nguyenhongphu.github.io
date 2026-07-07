@@ -81,7 +81,7 @@ Other experience and merits
 
 Co-supervision of students
 ======
-* 2023-now: 2 master students/interns, 1 PhD student, 2 master thesis supervisions
+* 2023-now: 6 master students/interns, 1 PhD student, 8 master thesis supervisions
 * 2022-2023: 1 PhD student, 1 visiting PhD student, 6 master thesis supervisions
 * 2021-2022: 3 master thesis supervisions, University of Oslo, Norway
 * 2019-2020: 3 master thesis supervisions, University of Oslo, Norway
