@@ -1,9 +1,9 @@
 ---
 title: "Edge Computing vs Cloud Computing: Combining the Cloud with Smart Devices, IoT and Autonomous Systems"
 collection: talks
-type: "Invited talk"
+type: "Invited Talk"
 permalink: /talks/2019-05-01-invited-talk-edge-vs-cloud
-venue: "Public seminar organised by ITS Norway and Tekna Big Data"
+venue: "Public seminar organised by ITS Norway and Tekna"
 date: 2019-05-01
 location: "Norway"
 ---

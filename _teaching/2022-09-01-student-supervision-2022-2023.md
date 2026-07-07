@@ -12,4 +12,4 @@ Supervision activities include:
 
 * 1 PhD student
 * 1 visiting PhD student
-* 6 master thesis supervisions
+* 6 master's thesis supervisions

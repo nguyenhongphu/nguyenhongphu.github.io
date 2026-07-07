@@ -1,7 +1,7 @@
 ---
 title: "Invited Lecture at the Summer School on Future Energy Information Networks"
 collection: talks
-type: "Invited lecture"
+type: "Invited Lecture"
 permalink: /talks/2018-08-01-invited-lecture-ss-fein-oslo
 venue: "Summer School on Future Energy Information Networks"
 date: 2018-08-01

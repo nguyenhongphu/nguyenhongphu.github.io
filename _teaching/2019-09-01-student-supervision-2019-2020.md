@@ -10,4 +10,4 @@ location: "Oslo, Norway"
 
 Supervision activities include:
 
-* 3 master thesis supervisions
+* 3 master's thesis supervisions

@@ -10,6 +10,6 @@ location: "Oslo, Norway"
 
 Invited teaching contributions for ITLED4340 (Development and maintenance of complex software systems):
 
-* 2023: Enabling deep customisation for multi-tenant SaaS, migration, and controlling technical debt
+* 2023: Enabling deep customisation for multi-tenant SaaS, migration, and technical debt control
 * 2022: Cloud-native microservices for complex software systems
 * 2021: Microservices, cloud adoption, and software-as-a-service
