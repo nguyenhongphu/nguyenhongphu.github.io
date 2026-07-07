@@ -17,8 +17,7 @@ Personal information
 
 Profile summary
 ======
-* Senior Research Scientist at SINTEF developing tools and methodologies for software development and operation of intelligent and trustworthy systems spanning IoT, edge, and cloud continuum, with a particular focus on sustainability.
-* Project contributor in Work Package 3 (WP3) in the Norwegian Centre on AI for Decisions - aiD (2026-2030). Research center aiD will help our society make the best use of AI by improving the decisions we take every day.
+* Senior Research Scientist at SINTEF developing tools and methodologies for software development and operation of intelligent and trustworthy systems spanning IoT, edge, and cloud continuum, with a particular focus on sustainability. Strong volunteer experiences in different social/professional organisations in different countries. 
 
 Competence and research areas
 ======
