@@ -1,0 +1,12 @@
+---
+title: "MITER (2011-2015)"
+excerpt: "PhD candidate in a core research project on modelling, composing, and testing security concerns."
+collection: portfolio
+date: 2011-01-01
+---
+
+Role: PhD candidate
+
+Project: Modeling, Composing, and Testing of Security Concerns (MITER).
+
+Funding: FNR CORE project funded by the National Research Fund of Luxembourg.

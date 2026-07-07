@@ -2,6 +2,7 @@
 title: "Pilot-T ASAM (2019-2020)"
 excerpt: "Internal project manager at SINTEF for message services in Cooperative Intelligent Transport Systems (C-ITS)."
 collection: portfolio
+date: 2019-01-01
 ---
 
 Role: Internal project manager at SINTEF

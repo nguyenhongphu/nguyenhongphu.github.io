@@ -2,6 +2,7 @@
 title: "TechDebtOps (2023-2026)"
 excerpt: "Project coordinator and internal project manager for data-driven continuous management of technical debt in sustainable software development."
 collection: portfolio
+date: 2023-01-01
 ---
 
 Role: Project coordinator and internal project manager (SINTEF team)
