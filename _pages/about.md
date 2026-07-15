@@ -13,53 +13,53 @@ My competence and research areas include AI-driven engineering, digital twin eng
 
 HIGHER EDUCATION
 ======
-PhD in Computer Science	University of Luxembourg, Luxembourg
+•	PhD in Computer Science	University of Luxembourg, Luxembourg
 
-Master of Computer Science and Engineering	Eindhoven University of Technology, the Netherlands
+•	Master of Computer Science and Engineering	Eindhoven University of Technology, the Netherlands
 
-Bachelor of Computer Science	Hanoi University of Science and Technology, Vietnam
+•	Bachelor of Computer Science	Hanoi University of Science and Technology, Vietnam
 
 POSITIONS 
 ======
-2022-now	Senior Research Scientist, SINTEF, Norway
+•	2022-now	Senior Research Scientist, SINTEF, Norway
 
-2018-2022	Research Scientist, SINTEF, Norway
+•	2018-2022	Research Scientist, SINTEF, Norway
 
-2015-2017	Postdoctoral Fellow, Simula Research Laboratory, Norway
+•	2015-2017	Postdoctoral Fellow, Simula Research Laboratory, Norway
 
-2011-2015	PhD candidate, Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg, Luxembourg
+•	2011-2015	PhD candidate, Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg, Luxembourg
 
-2011-2011	Lecturer, FPT University & Aptech Computer Education, Vietnam
+•	2011-2011	Lecturer, FPT University & Aptech Computer Education, Vietnam
 
-2006-2008	Software Engineer, FSoft & IBM Vietnam, Hanoi, Vietnam
+•	2006-2008	Software Engineer, FSoft & IBM Vietnam, Hanoi, Vietnam
 
 PROJECT MANAGEMENT EXPERIENCE
 ======
-2025-2028	SECASSURED - Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right (SINTEF project contact)
+•	2025-2028	SECASSURED - Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right (SINTEF project contact)
 
-2024-2027	REED - REsponsive and REconfigurable value network for the manufacture of bulky parts (SINTEF project contact)
+•	024-2027	REED - REsponsive and REconfigurable value network for the manufacture of bulky parts (SINTEF project contact)
 
-2026-2028	BAEREL - Sustainable and circular electronic products and production value chains (project contributor)
+•	2026-2028	BAEREL - Sustainable and circular electronic products and production value chains (project contributor)
 
-2026-2030	Norwegian Centre on AI for Decisions - aiD - Project contributor in Work Package 3 (WP3). Research center aiD will help our society make the best use of AI by improving the decisions we take every day.
+•	2026-2030	Norwegian Centre on AI for Decisions - aiD - Project contributor in Work Package 3 (WP3). Research center aiD will help our society make the best use of AI by improving the decisions we take every day.
 
-2023-2026	TechDebtOps - Project coordinator and internal project manager for the SINTEF team (IPN, Research Council of Norway)
+•	2023-2026	TechDebtOps - Project coordinator and internal project manager for the SINTEF team (IPN, Research Council of Norway)
 
-2022-2025	DYNABIC - Task leader (Horizon Europe)
+•	2022-2025	DYNABIC - Task leader (Horizon Europe)
 
-2020-2024	Dat4.Zero - Internal project manager for the SINTEF team (EU H2020)
+•	2020-2024	Dat4.Zero - Internal project manager for the SINTEF team (EU H2020)
 
-2020-2023	InterQ - Task leader (EU H2020)
+•	2020-2023	InterQ - Task leader (EU H2020)
 
-2019-2020	Pilot-T ASAM - Internal project manager at SINTEF (Research Council of Norway)
+•	2019-2020	Pilot-T ASAM - Internal project manager at SINTEF (Research Council of Norway)
 
-2018-2020	ENACT - Task leader (EU H2020)
+•	2018-2020	ENACT - Task leader (EU H2020)
 
-2018-2020	Cirrus - Task leader (IPN, Research Council of Norway)
+•	2018-2020	Cirrus - Task leader (IPN, Research Council of Norway)
 
-2015-2017	U-Test - Postdoc (EU H2020)
+•	2015-2017	U-Test - Postdoc (EU H2020)
 
-2011-2015	MITER - PhD candidate (FNR CORE project, Luxembourg)
+•	2011-2015	MITER - PhD candidate (FNR CORE project, Luxembourg)
 
 OTHER EXPERIENCE & MERITS
 ------
