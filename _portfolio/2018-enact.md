@@ -1,6 +1,6 @@
 ---
 title: "ENACT (2018-2020)"
-excerpt: "Task leader in an EU H2020 project on development, operation, and quality assurance of trustworthy smart IoT systems.<br/><img src='/images/500x300.png'>"
+excerpt: "Task leader in an EU H2020 project on development, operation, and quality assurance of trustworthy smart IoT systems.<br/><img src='/images/projects/logo-ENACT.png'>"
 collection: portfolio
 date: 2018-01-01
 ---

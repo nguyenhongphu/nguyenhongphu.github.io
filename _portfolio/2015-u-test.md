@@ -1,6 +1,6 @@
 ---
 title: "U-Test (2015-2017)"
-excerpt: "Postdoctoral researcher in an EU H2020 project on testing cyber-physical systems under uncertainty.<br/><img src='/images/500x300.png'>"
+excerpt: "Postdoctoral researcher in an EU H2020 project on testing cyber-physical systems under uncertainty.<br/><img src='/images/projects/UTest.png'>"
 collection: portfolio
 date: 2015-01-01
 ---
