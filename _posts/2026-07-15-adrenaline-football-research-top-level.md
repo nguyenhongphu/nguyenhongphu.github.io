@@ -27,3 +27,11 @@ We did manage to submit a strong proposal with the deadline exactly in the middl
 The adrenaline run of the Norwegian team at this year FIFA World Cup 2026 ended at the quarter final, but that is life. They were received as national heroes coming back to Norway.
 
 As researchers, whether we win funding in a race with a 2% success rate or not, we still compete at the highest level.
+
+## References
+
+1. [ICSE 2026 Conference](https://conf.researchr.org/home/icse-2026)
+2. [XP 2026 Conference](https://conf.researchr.org/home/xp-2026)
+3. [Horizon Europe Call: HORIZON-CL4-2026-05-DIGITAL-EMERGING-02](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2026-05-DIGITAL-EMERGING-02?isExactMatch=true&status=31094501,31094502,31094503&programmePeriod=2021%20-%202027&frameworkProgramme=43108390&callIdentifier=HORIZON-CL4-2026-05&order=ASC&pageNumber=1&pageSize=50&sortBy=startDate)
+4. [AI4TD Workshop Program at XP 2026](https://conf.researchr.org/track/xp-2026/xp-2026-international-workshop-on-ai-for-technical-debt-management-in-agile-software-development--ai4td-#program)
+5. [Fla-Flu Derby (Wikipedia)](https://en.wikipedia.org/wiki/Fla%E2%80%93Flu)

@@ -16,6 +16,10 @@ Digital systems are now assembled from software, hardware, cloud services, third
 
 This post presents the SECASSURED vision: Digital Twins-based Assurance-driven AI-empowered SecDevOps for continuously securing digital infrastructures.
 
+![SECASSURED overview showing assurance-driven AI-empowered SecDevOps with SecDevTwin and SecOpsTwin](/images/posts/SECASSURED_overview-002.png)
+
+*Figure: SECASSURED overview of the closed-loop flow between development-time and operations-time security assurance.*
+
 What the vision adds
 ======
 

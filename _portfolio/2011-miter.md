@@ -7,6 +7,8 @@ date: 2011-01-01
 
 Role: PhD candidate
 
+PI: Jacques Klein, Professor, SnT, University of Luxembourg. 
+
 Project: Modeling, Composing, and Testing of Security Concerns (MITER).
 
 Funding: FNR CORE project funded by the National Research Fund of Luxembourg.
