@@ -35,7 +35,7 @@ POSITIONS
 
 PROJECT MANAGEMENT EXPERIENCE
 ======
-•	2025-2028	SECASSURED - Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right (SINTEF project contact)
+•	2025-2028	SECASSURED - Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right (Project Coordinator, SINTEF project contact)
 
 •	024-2027	REED - REsponsive and REconfigurable value network for the manufacture of bulky parts (SINTEF project contact)
 
@@ -43,15 +43,15 @@ PROJECT MANAGEMENT EXPERIENCE
 
 •	2026-2030	Norwegian Centre on AI for Decisions - aiD - Project contributor in Work Package 3 (WP3). Research center aiD will help our society make the best use of AI by improving the decisions we take every day.
 
-•	2023-2026	TechDebtOps - Project coordinator and internal project manager for the SINTEF team (IPN, Research Council of Norway)
+•	2023-2026	TechDebtOps - Project coordinator and internal project manager for the SINTEF team (IPN, Research Council of Norway, Project Coordinator, SINTEF project contact)
 
 •	2022-2025	DYNABIC - Task leader (Horizon Europe)
 
-•	2020-2024	Dat4.Zero - Internal project manager for the SINTEF team (EU H2020)
+•	2020-2024	Dat4.Zero - Internal project manager for the SINTEF team (EU H2020, SINTEF project contact)
 
 •	2020-2023	InterQ - Task leader (EU H2020)
 
-•	2019-2020	Pilot-T ASAM - Internal project manager at SINTEF (Research Council of Norway)
+•	2019-2020	Pilot-T ASAM - Internal project manager at SINTEF (Research Council of Norway, SINTEF project contact)
 
 •	2018-2020	ENACT - Task leader (EU H2020)
 

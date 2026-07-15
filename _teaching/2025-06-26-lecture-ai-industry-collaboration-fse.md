@@ -10,5 +10,5 @@ location: "Trondheim, Norway"
 
 Lecture delivered as part of FSE 2025 activities.
 
-- NVA record: https://nva.sikt.no/registration/019bfb47b065-d7678d17-b97e-4589-97f0-6211fb2e8262
-- External event link: https://conf.researchr.org/track/fse-2025/fse-2025-industry-mentoring-symposium?#program
+- [NVA record](https://nva.sikt.no/registration/019bfb47b065-d7678d17-b97e-4589-97f0-6211fb2e8262)
+- [External event link](https://conf.researchr.org/track/fse-2025/fse-2025-industry-mentoring-symposium?#program)

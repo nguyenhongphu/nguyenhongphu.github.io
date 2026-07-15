@@ -11,4 +11,4 @@ Project: Data-driven continuous management of technical debts for sustainable so
 
 Funding: Innovation Project for Industry (IPN), Research Council of Norway.
 
-Project page: https://www.sintef.no/en/projects/2023/data-driven-continuous-management-of-technical-debts-for-sustainable-software-development/
+Project page: <a href="https://www.sintef.no/en/projects/2023/data-driven-continuous-management-of-technical-debts-for-sustainable-software-development/" target="_blank" rel="noopener noreferrer">SINTEF TechDebtOps project page</a>

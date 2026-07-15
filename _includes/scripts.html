@@ -1,5 +1,28 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		var anchors = document.querySelectorAll('a[href]');
+		anchors.forEach(function (anchor) {
+			var href = anchor.getAttribute("href");
+			if (!href || href.startsWith("#")) {
+				return;
+			}
+			try {
+				var url = new URL(href, window.location.href);
+				var isExternal = url.hostname && url.hostname !== window.location.hostname;
+				var isHttp = url.protocol === "http:" || url.protocol === "https:";
+				if (isExternal && isHttp) {
+					anchor.setAttribute("target", "_blank");
+					anchor.setAttribute("rel", "noopener noreferrer");
+				}
+			} catch (e) {
+				// Ignore malformed URLs and leave links untouched.
+			}
+		});
+	});
+</script>
+
 {% include analytics.html %}
 
 {% include comments-providers/scripts.html %}

@@ -10,4 +10,4 @@ location: "Greece"
 
 Conference lecture on security orchestration for CPS and IoT systems.
 
-- NVA record: https://nva.sikt.no/registration/019beb35e1b4-a48a5407-ba25-4ca3-a23c-d3cd28fe0182
+- [NVA record](https://nva.sikt.no/registration/019beb35e1b4-a48a5407-ba25-4ca3-a23c-d3cd28fe0182)

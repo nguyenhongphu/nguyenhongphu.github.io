@@ -105,7 +105,7 @@ Invited talks and lectures (selected)
 * [Invited talk, 2021] "Using Microservices: Customization on Cloud, Shout-out to Tech Debts, and DevOps Enactment for IoT", DnB Architect Summit.
 * [Invited lecture, 2021] University of Oslo: Microservices, cloud adoption, and software-as-a-service for ITLED4340.
 * [Keynote talk, 2020] "Edge-to-Cloud orchestration: a case study of building a scalable Cooperative-Intelligent Transport System (C-ITS)", First International Workshop on Building Software Services in Smart City through Edge-to-Cloud orchestration (3SCity-E2C).
-* [Interview, 2020] "Soon you can tailor IT solutions in the cloud as well" - https://gemini.no/2020/06/snart-kan-du-skreddersy-it-losning
+* [Interview, 2020] "Soon you can tailor IT solutions in the cloud as well" - [Gemini.no article](https://gemini.no/2020/06/snart-kan-du-skreddersy-it-losning)
 * [Invited lecture, 2019] "Bridge the gap from Design to Operation of Trustworthy Smart IoT Systems with Tools' support", Summer School on Future Energy Information Networks, Berlin, Germany.
 * [Invited talk, 2019] "Edge computing vs cloud computing: Combining the cloud with smart devices, IoT and autonomous systems", organised by ITS Norway and Tekna Big Data.
 * [Invited talk, 2018] "Advances in genetic engineering and the future of humans", SINTEF public seminar.
@@ -115,7 +115,7 @@ Research service
 ======
 * Reviewer for leading software engineering journals, including Software and Systems Modeling, Information and Software Technology, Software: Practice and Experience, IEEE Software, Empirical Software Engineering, and IEEE Transactions on Software Engineering.
 * Reviewer and panel leader for evaluating research proposals in the DSTrain Postdoctoral Programme, University of Oslo (2024), funded in part by Horizon Europe MSCA COFUND.
-* Co-founder and Chair of the International Workshop series on Software Engineering and AI for Data Quality in Cyber-Physical Systems (SEA4DQ), 2021-2024: https://sea4dq.github.io/
+* Co-founder and Chair of the International Workshop series on Software Engineering and AI for Data Quality in Cyber-Physical Systems (SEA4DQ), 2021-2024: [SEA4DQ website](https://sea4dq.github.io/)
 * Programme committee roles across venues including ESOCC 2025, IFP-IoT 2024, SecAssure 2024/2023/2022, ARES 2024/2023, AI4DT&CP 2024, DeMeSSA 2023/2022, CPS4CIP 2023, MeSS 2023, INTUITESTBEDS 2023/2022, SER&IP 2021, ICDCN 2021, A-TEST 2020, and 3SCity-E2C 2020.
 * Co-organiser and speaker at the workshop "Towards the Future of Trustworthy and Intelligence IoT Applications by DevOps", co-located with IoT Week 2022 (Dublin).
 * Co-organiser of the 4ZDM cluster webinar "A showcase of seven projects for zero-defect manufacturing" with approximately 114 participants (April 2022).

@@ -41,13 +41,13 @@ The CIRRUS results were disseminated through multiple publications and presentat
 Selected related publications
 ======
 
-- https://dl.acm.org/doi/abs/10.1145/3338906.3340452
-- https://link.springer.com/chapter/10.1007/978-3-030-31646-4_12
-- https://ieeexplore.ieee.org/abstract/document/8818453/
-- https://drops.dagstuhl.de/opus/volltexte/2020/11823/
+- [ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3338906.3340452)
+- [Springer Link chapter](https://link.springer.com/chapter/10.1007/978-3-030-31646-4_12)
+- [IEEE Xplore publication](https://ieeexplore.ieee.org/abstract/document/8818453/)
+- [Dagstuhl publication](https://drops.dagstuhl.de/opus/volltexte/2020/11823/)
 
 Source
 ======
 
 This post is based on the Gemini.no article:
-https://gemini.no/2020/06/snart-kan-du-skreddersy-it-losninger-ogsa-i-skyen/
+[Gemini.no: Snart kan du skreddersy IT-løsninger også i skyen](https://gemini.no/2020/06/snart-kan-du-skreddersy-it-losninger-ogsa-i-skyen/)

@@ -9,4 +9,4 @@ Role: SINTEF project contact
 
 Project: Security Assurance-driven AI-based Security Services for Trustworthy Security Engineering from Left to Right (SECASSURED).
 
-Project page: https://www.sintef.no/en/projects/2025/secassured-security-assurance-driven-ai-based-security-services-for-trustworthy-security-engineering-from-left-to-right/
+Project page: <a href="https://www.sintef.no/en/projects/2025/secassured-security-assurance-driven-ai-based-security-services-for-trustworthy-security-engineering-from-left-to-right/" target="_blank" rel="noopener noreferrer">SINTEF SECASSURED project page</a>

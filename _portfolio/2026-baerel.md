@@ -9,4 +9,4 @@ Role: Project contributor
 
 Project: BAREL/BAEREL - Sustainable and circular electronic products and production value chains.
 
-Project page: https://www.sintef.no/en/projects/2026/barel-sustainable-and-circular-electronic-products-and-production-value-chains/
+Project page: <a href="https://www.sintef.no/en/projects/2026/barel-sustainable-and-circular-electronic-products-and-production-value-chains/" target="_blank" rel="noopener noreferrer">SINTEF BAEREL project page</a>

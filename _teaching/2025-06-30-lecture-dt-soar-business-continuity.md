@@ -10,4 +10,4 @@ location: "Naples, Italy"
 
 Lecture on AI-driven digital twin-based SOAR for critical infrastructures.
 
-- NVA record: https://nva.sikt.no/registration/019bfb420d27-2ca1dc67-75d2-4199-86bb-9313f46afa21
+- [NVA record](https://nva.sikt.no/registration/019bfb420d27-2ca1dc67-75d2-4199-86bb-9313f46afa21)
