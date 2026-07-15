@@ -12,34 +12,34 @@ tags:
 
 By Phu Nguyen and Adela Nedisan Videsjorden (SINTEF).
 
-Digital systems today are increasingly complex and critical. They combine interconnected components across hardware and software, often in fast-changing ecosystems with third-party dependencies. At the same time, rapidly evolving cyber threats and accelerated delivery cycles make security assurance much harder to maintain continuously.
+Digital systems are now assembled from software, hardware, cloud services, third-party dependencies, and constantly changing operational environments. That makes security assurance harder to treat as a one-time activity. It has to evolve together with the system itself.
 
-This post introduces the SECASSURED vision: Digital Twins-based Assurance-driven AI-empowered SecDevOps for continuously securing digital infrastructures.
+This post presents the SECASSURED vision: Digital Twins-based Assurance-driven AI-empowered SecDevOps for continuously securing digital infrastructures.
 
-Main ideas
+What the vision adds
 ======
 
-Assurance-driven security as the foundation
+Security assurance as the driving force
 ------
-Security assurance is positioned as the central driver for developing and operating trustworthy, certifiable systems across the software supply chain.
+Instead of treating security as a late-stage checkpoint, the vision places assurance at the center of the development and operations lifecycle. The goal is to support trustworthy, certifiable systems across the software supply chain.
 
-Federated security twins across development and operations
+Two complementary security twins
 ------
-The approach combines two complementary twins:
+The approach combines two digital twins that work together:
 
-- `SecDevTwin`: a development-oriented security twin that models architecture, software components, dependencies, infrastructure, and assurance artefacts. It helps evaluate security properties before deployment and supports shift-left assurance.
+- `SecDevTwin`: a development-oriented security twin that models architecture, software components, dependencies, infrastructure, and assurance artefacts. It supports shift-left assurance and helps evaluate security properties before deployment.
 - `SecOpsTwin`: an operational security twin that represents runtime state using telemetry, events, alerts, and monitoring data. It enables continuous runtime assurance, including anomaly detection, forecasting, simulation, and automated response.
 
-Bidirectional feedback between Dev and Ops
+Feedback in both directions
 ------
-The twins exchange evidence continuously:
+The twins exchange evidence continuously so that development and operations reinforce each other:
 
 - Development-to-Operations flow: architectural context, assurance cases, compliance evidence, and development-time assessments support better runtime monitoring and response.
-- Operations-to-Development flow: runtime anomalies, incidents, threat intelligence, and infrastructure changes feed back to improve future development, simulation, and assurance activities.
+- Operations-to-Development flow: runtime anomalies, incidents, threat intelligence, and infrastructure changes feed back into future development, simulation, and assurance work.
 
-A unified, knowledge-driven security lifecycle
+A closed-loop security lifecycle
 ------
-Together, the twins form a closed-loop, knowledge-driven lifecycle where assurance activities can be continuously refined with both simulated and real operational evidence.
+Together, the twins create a knowledge-driven lifecycle where security assurance can be refined using both simulated and real operational evidence. That makes the system more adaptive, more observable, and easier to improve over time.
 
 Source
 ======
